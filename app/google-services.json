@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247084632554",
+    "project_id": "pocket-book-app-1d5d3",
+    "storage_bucket": "pocket-book-app-1d5d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247084632554:android:3661f6e1458ebadd86ca93",
+        "android_client_info": {
+          "package_name": "com.project.pocketbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247084632554-fmr0jtfgne4ivkb9cjitgqamq77rhl3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.pocketbookapp",
+            "certificate_hash": "5522b3a1aa143d8a954a599d7aed35a3a6a5fa9e"
+          }
+        },
+        {
+          "client_id": "247084632554-q65eq0l79gqu0pn0cu9jel4pi325r7ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUV68igO2DzpYnMsndIjgEbD2bUvl0Yt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247084632554-q65eq0l79gqu0pn0cu9jel4pi325r7ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

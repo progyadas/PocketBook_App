@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PocketBookApp</string>
+    <string name="welcome">Welcome to Pocket Book App</string>
+    <string name="without_login">Continue Without Login</string>
+    <string name="login">Login</string>
+    <string name="please_login">Please Login</string>
+    <string name="new_user_signup">New User?<b>SignUp</b></string> <!--Make signup bold-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="dashboard_user">Dashboard User</string>
+    <string name="dashboard_admin">Dashboard Admin</string>
+    <string name="new_category">Add a new Category</string>
+    <string name="submit">Submit</string>
+    <string name="category_title">Category Title</string>
+</resources>
